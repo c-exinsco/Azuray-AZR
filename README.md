@@ -61,7 +61,7 @@ We have been listed our Azuray AZR coin on Mintme Exchange <br/>
 <b>LinkedIn:</b> https://linkedin.com/in/cexinsco <br/>
 <b>Tiktok:</b> https://tiktok.com/@cexinsco?lang=en <br/>
 <b>Telegram:</b> https://t.me/cexinsco <br/>
-<b>Medium:</b> https://c-exins-co.medium.com/azuray-AZR-19cd3d66c2b <br/>
+<b>Medium:</b> https://c-exins-co.medium.com/bazuray-azr-coin-5ef2b95899d <br/>
 <b>Youtube:</b> https://www.youtube.com/channel/UCjtssoExd5cf9NNKooyvW4g <br/>
 <b>Website:</b> https://www.c-exins.co <br/>
 <b>Email:</b> info@c-exins.co (For Generals) , Azuray-AZR@c-exins.co (For Developers) <br/> <br/> <br/>
