@@ -52,8 +52,8 @@ We have been listed our Azuray AZR coin on Mintme Exchange <br/>
 <b>Bitcointalk:</b> https://bitcointalk.org/index.php?topic=5400579 <br/>
 <b>Twitter:</b> https://twitter.com/cexinsco <br/>
 <b>Instagram:</b> https://www.instagram.com/cexinsco <br/>
-<b>Telegram:</b> https://t.me/AzurayAZRTradersGRP1 (<b>Join Telegram Chat: AZURAY AZR</b>) <br/>
-<b>Discord:</b> https://discord.new/QQy9fskxavaD (<b>Join Discord Chat: AZURAY AZR</b>) <br/>
+<b>Telegram:</b> https://t.me/AzurayAZRTradersGRP1 (<b>Join Telegram Chat</b>) <br/>
+<b>Discord:</b> https://discord.new/QQy9fskxavaD (<b>Join Discord Chat</b>) <br/>
 <b>Pinterest:</b> https://pinterest.com/cexinsco <br/>
 <b>Reddit:</b>https://www.reddit.com/user/cexinsco <br/>
 <b>Slack:</b> https://cexinscocrypt-dod6095.slack.com <br/>
