@@ -21,7 +21,7 @@ Azuray AZR token. Created/Owned by C-EXINS. Launched today on <br />
 <h3>Wallets Supported</h3> to Store Azuray (AZR) tokens. <br />
 
 
-<h1><a href="https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm?hl=en-US" title="Azuray AZR on Metamask">Metamask</a></h1>, <h1><a href="https://trustwallet.com/dl/apk" title="Azuray AZR on TronLink">TronLink</a></h1> etc.
+<h1><a href="https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm?hl=en-US" title="Azuray AZR on Metamask">Metamask</a></h1>, <h1><a href="https://trustwallet.com/dl/apk" title="Azuray AZR on Trust Wallet">Trust</a></h1> etc.
 
 
 It is how you would add Azuray (AZR) token into any BEP20 supported wallet 
