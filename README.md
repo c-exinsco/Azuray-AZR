@@ -41,7 +41,7 @@ Now, you are ready to transfer Azuray AZR Tokens into this BSC BEP20 Supported w
 <h2>Exchanges</h2>
 Azuray AZR coin on Pancake.finance/swap <br />
 <a href="https://exchange.biswap.org/pool#/swap?outputCurrency=0x587362167eeB2a766154045C4cbfB8fD791136e7" title="Trade Azuray AZR on Exchange Biswap">
-<img src="https://www.c-exins.co/tokens/ERC20/azuray-azr/images/exchange-biswap-org.png" alt="Azuray AZR on Exchange Biswap" title="Azuray AZR on Exchange Biswap" /> <br/>
+<img src="https://c-exins.co/tokens/BEP20/azuray-azr/images/exchange-biswap-org.png" alt="Azuray AZR on Exchange Biswap" title="Azuray AZR on Exchange Biswap" /> <br/>
 Trade Azuray AZR</a> <br/> <br />
 We have been listed our Azuray AZR coin on Mintme Exchange <br/>
 <a href="https://www.mintme.com/token/Azuray-azr/invite" title="Azuray AZR on Mintme"><img src="https://www.c-exins.co/tokens/BEP20/azuray-azy/images/mintme-exchange.png" alt="Azuray AZR on Mintme.com" title="Azuray AZR on Mintme.com"/></a> <br/>
@@ -64,8 +64,7 @@ We have been listed our Azuray AZR coin on Mintme Exchange <br/>
 <b>Medium:</b> https://c-exins-co.medium.com/azuray-AZR-19cd3d66c2b <br/>
 <b>Youtube:</b> https://www.youtube.com/channel/UCjtssoExd5cf9NNKooyvW4g <br/>
 <b>Website:</b> https://www.c-exins.co <br/>
-<b>Email:</b> info@c-exins.co (For Generals) <br/>
-              Azuray-AZR@c-exins.co (For Developers) <br/> <br/>
+<b>Email:</b> info@c-exins.co (For Generals) , Azuray-AZR@c-exins.co (For Developers) <br/> <br/> <br/>
 
 
 Thursday, 05 May, 2022 <br/>
